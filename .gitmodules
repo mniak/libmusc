@@ -1,0 +1,3 @@
+[submodule "libmusgo"]
+	path = libmusgo
+	url = git@github.com:mniak/libmusgo.git
